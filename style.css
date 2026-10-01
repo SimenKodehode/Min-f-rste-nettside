@@ -1,0 +1,40 @@
+img {
+  width: 300px;
+  height: auto;
+}
+img:hover {
+  transform: scale(1.7);
+  transition: transform 0.3s ease;
+}
+h1 {
+  color: #bc1616;
+}
+h2 {
+  color: rgb(54, 99, 9);
+}
+.p1 {
+  color: #d62121;
+  font-size: 16px;
+}
+.p2 {
+  color: #b7109e;
+  font-size: 16px;
+}
+body {
+  background-color: #c9ea0a;
+  font-family:
+    comic sans ms,
+    sans-serif;
+  margin: 20px;
+  text-align: center;
+}
+.ol1 {
+  color: #3011b8;
+  font-size: 16px;
+  list-style-position: inside;
+}
+.ul1 {
+  color: #03181f;
+  font-size: 16px;
+  list-style-position: inside;
+}
