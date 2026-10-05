@@ -2,6 +2,10 @@ img {
   width: 300px;
   height: auto;
 }
+video {
+  width: 300px;
+  height: auto;
+}
 img:hover {
   transform: scale(1.7);
   transition: transform 0.3s ease;
